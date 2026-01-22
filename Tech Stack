@@ -1,0 +1,15 @@
+1. Backend:
+
+Python
+
+FastAPI
+
+OpenAI / sentence-transformers (embeddings)
+
+scikit-learn (cosine similarity)
+
+2. Frontend:
+
+React (or simple HTML + Tailwind if you prefer)
+
+Fetch API
